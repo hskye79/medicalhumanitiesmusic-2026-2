@@ -1,24 +1,21 @@
 ---
 Title: Meet Joe Black
+song title : Just the two of us
 Year: 1998
-field: film
-Director: Martin Brest 
-Genre: Romance
+Genre: film
+Director: Martin Brest
+Composer: Bill Withers, William softer, Ralph Macdonals
 ---
 
 # Meet Joe black
 
-Billionaire William Parrish (Anthony Hopkins) is suddenly seized by a strange voice and premonition echoing in his head. 
-Around that time, an unidentified young man named "Joe Black" (Brad Pitt) visits his mansion.
-​In fact, Joe Black's true identity was "Death" itself, tasked with taking human lives. Before collecting William's life, driven by curiosity about the human world and the emotion of love, he decides to briefly borrow the body of a young man to experience the mortal realm. Under the condition that he cannot escape his own death, William acts as a guide to help Joe adapt to human society.
-​However, an unexpected turn of events unfolds. William’s daughter, Susan (Claire Forlani), meets Joe Black, and the two are strongly drawn to each other and fall in love. Joe, the god of death, also comes to realize the deep emotions of humans and the beauty of love through Susan.
+The mid-film garden party scene where Joe and Susan dance beautifully demonstrates how music completes the film's narrative. As the glamorous party noise fades into a sweet melody, the harmony of a calm piano and soft strings captures the lovers' cautious new romance, while its wistful tempo makes us forget Joe's identity as Death. Even without spoken dialogue, their joined hands and exchanged glances blend seamlessly with the rhythm, elevating the music into a storyteller that conveys both the nuance of their impending parting and the profound tenderness of this fleeting moment.
 
 # 조블랙의 사랑
 
-억만장자인 윌리엄 패리쉬(안소니 홉킨스)는 어느 날 갑자기 자신의 머릿속에서 들려오는 이상한 목소리와 예감에 사로잡힌다. 그러던 중, 
-그의 저택에 ‘조 블랙(브래드 피트)’이라는 정체불명의 청년이 찾아온다.
-​사실 조 블랙의 정체는 인간 데려가는 임무를 맡은 ‘죽음’ 그 자체였습니다. 그는 윌리엄의 삶을 거두러 오기 전, 인간 세상과 사랑이라는 감정에
-호기심을 느껴 잠시 젊은 청년의 육체를 빌려 인간 세계를 경험하려 한다. 윌리엄은 자신의 죽음을 피할 수 없는 조건으로, 
-조가 인간 세상에 적응할 수 있도록 가이드 역할을 해준다.
-​하지만 예상치 못한 일이 벌어집니다. 윌리엄의 딸 수잔(클레어 폴니)이 조 블랙을 만나고, 두 사람은 서로에게 강하게 이끌려 사랑에 빠지게 된다. 
-죽음의 신인 조 역시 수잔을 통해 인간의 깊은 감정과 사랑의 아름다움을 깨닫게 된다.
+영화 중반부 정원 파티에서 조 블랙과 수잔이 서로를 바라보며 춤을 추는 장면은 음악이 어떻게 영화의 서사를 완성하는지 보여주는 명장면이다.
+화려한 파티의 소음이 잠시 아득해지고 감미로운 선율이 흘러나오는 순간, 두 사람을 둘러싼 공기는 마치 세상에 오직 둘만 남겨진 것처럼 로맨틱하다.
+​차분하게 깔리는 피아노와 부드러운 현악기의 조화는 조심스럽게 사랑을 시작하는 연인의 마음을 담아내며, 
+이 곡이 품고 있는 특유의 여유로운 템포와 아련한 분위기는 죽음의 신이라는 조 블랙의 정체성을 잊게 한다.
+​특별한 대사나 스킨십이 없어도, 맞닿은 손과 눈빛의 교환이 음악의 리듬과 자연스럽게 어우러진다
+이 장면에서 흐르는 음악은 단순한 배경음을 넘어, 다가올 이별의 뉘앙스와 지금 찰나의 애틋함을 동시에 보여주는 스토리텔러 역할을 한다.
