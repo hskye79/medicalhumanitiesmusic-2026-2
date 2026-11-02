@@ -18,11 +18,11 @@ The work I selected for this assignment is *The Music Never Stopped* (2011), a d
 
 # Music Information
 
-The film uses various popular songs from different periods, as well as original music composed for the film. The film score was composed by Paul Cantelon, who was born in 1959. One of the important songs in the film is 'Touch of Grey' by the American rock band Grateful Dead. The song was written by Jerry Garcia (1942 ~ 1995) and Robert Hunter (1941–2019), and was released in 1987. Its lyrics express the idea of staying strong and continuing to live even when life is difficult. Other songs in the film include 'Uncle John's Band', 'Sugar Magnolia', 'Truckin'' and 'Ripple'. Music by other artists, including The Beatles, Bob Dylan, and Steppenwolf, is also featured.
+The film uses various popular songs from different periods, as well as original music composed for the film. The film score was composed by Paul Cantelon, who was born in 1959. One of the important songs in the film is 'Touch of Grey' by the American rock band Grateful Dead. The song was written by Jerry Garcia (1942~1995) and Robert Hunter (1941~2019), and was released in 1987. Its lyrics express the idea of staying strong and continuing to live even when life is difficult. Other songs in the film include 'Uncle John's Band', 'Sugar Magnolia', 'Truckin'' and 'Ripple'. Music by other artists, including The Beatles, Bob Dylan, and Steppenwolf, is also featured.
 
 # 작품에 사용된 음악과 정보
 
-영화에는 여러 시대의 대중음악과 영화의 오리지널 음악이 함께 사용되었다. 영화 음악은 폴 캔텔론(Paul Cantelon, 1959년 출생)이 맡았으며, 작품에서 중요하게 등장하는 곡 중 하나는 미국의 록 밴드 Grateful Dead의 'Touch of Grey'이다. 이 곡은 제리 가르시아(Jerry Garcia, 1942~1995)가 작곡하고 로버트 헌터(Robert Hunter, 1941 ~ 2019)가 작사했으며, 1987년에 발표되었다. 가사는 어려운 상황에서도 포기하지 않고 계속 살아가려는 마음을 담고 있다. 이외에도 'Uncle John's Band', 'Sugar Magnolia', 'Truckin'', 'Ripple' 등의 곡이 사용되었으며, 비틀스(The Beatles), 밥 딜런(Bob Dylan), 스티플울프(Steppenwolf) 등 다양한 음악가들의 음악도 영화에 등장한다.
+영화에는 여러 시대의 대중음악과 영화의 오리지널 음악이 함께 사용되었다. 영화 음악은 폴 캔텔론(Paul Cantelon, 1959년 출생)이 맡았으며, 작품에서 중요하게 등장하는 곡 중 하나는 미국의 록 밴드 Grateful Dead의 'Touch of Grey'이다. 이 곡은 제리 가르시아(Jerry Garcia, 1942~1995)가 작곡하고 로버트 헌터(Robert Hunter, 1941~2019)가 작사했으며, 1987년에 발표되었다. 가사는 어려운 상황에서도 포기하지 않고 계속 살아가려는 마음을 담고 있다. 이외에도 'Uncle John's Band', 'Sugar Magnolia', 'Truckin'', 'Ripple' 등의 곡이 사용되었으며, 비틀스(The Beatles), 밥 딜런(Bob Dylan), 스티플울프(Steppenwolf) 등 다양한 음악가들의 음악도 영화에 등장한다.
 
 # Plot
 
