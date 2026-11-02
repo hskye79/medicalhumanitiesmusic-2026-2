@@ -8,22 +8,17 @@ Genre: Romance
 
 # Meet Joe black
 
-In *Philadelphia* (1993), directed by Jonathan Demme, Andrew Beckett, a lawyer
-fired after his firm discovers that he has AIDS, plays Maria Callas’s recording of
-“La mamma morta” from Umberto Giordano’s *Andrea Chénier* (1896) for Joe
-Miller, the attorney who has reluctantly taken his case. As Andrew translates
-Maddalena’s account of losing her mother, her home, and everything she had, the
-aria becomes his own illness narrative, told through another person’s voice. The
-scene shows that what cost Andrew his job was not the virus but how society
-understood it, and it asks whether music can convey an experience of illness that
-words alone cannot.
+Billionaire William Parrish (Anthony Hopkins) is suddenly seized by a strange voice and premonition echoing in his head. 
+Around that time, an unidentified young man named "Joe Black" (Brad Pitt) visits his mansion.
+​In fact, Joe Black's true identity was "Death" itself, tasked with taking human lives. Before collecting William's life, driven by curiosity about the human world and the emotion of love, he decides to briefly borrow the body of a young man to experience the mortal realm. Under the condition that he cannot escape his own death, William acts as a guide to help Joe adapt to human society.
+​However, an unexpected turn of events unfolds. William’s daughter, Susan (Claire Forlani), meets Joe Black, and the two are strongly drawn to each other and fall in love. Joe, the god of death, also comes to realize the deep emotions of humans and the beauty of love through Susan.
 
 # 조블랙의 사랑
 
-조너선 드미 감독의 《필라델피아》(1993)에서, 에이즈에 걸린 사실이 회사에 알려진 뒤 해고된
-변호사 앤드루 베킷은 마지못해 자기 사건을 맡은 조 밀러에게 마리아 칼라스가 부른 「어머니는
-돌아가시고」를 들려준다. 움베르토 조르다노의 오페라 《안드레아 셰니에》(1896)에 나오는 이
-아리아에서 마달레나는 어머니와 집과 가진 모든 것을 잃은 이야기를 노래한다. 앤드루가 그 가
-사를 한 줄씩 옮기는 동안, 노래는 남의 목소리를 빌린 앤드루 자신의 질환서사가 된다. 이 장면
-은 앤드루의 일자리를 빼앗은 것이 바이러스가 아니라 바이러스를 바라보는 사회의 시선이었음
-을 보여 주고, 말로는 닿지 못하는 질병의 경험을 음악이 전할 수 있는지 묻게 한다.
+억만장자인 윌리엄 패리쉬(안소니 홉킨스)는 어느 날 갑자기 자신의 머릿속에서 들려오는 이상한 목소리와 예감에 사로잡힌다. 그러던 중, 
+그의 저택에 ‘조 블랙(브래드 피트)’이라는 정체불명의 청년이 찾아온다.
+​사실 조 블랙의 정체는 인간 데려가는 임무를 맡은 ‘죽음’ 그 자체였습니다. 그는 윌리엄의 삶을 거두러 오기 전, 인간 세상과 사랑이라는 감정에
+호기심을 느껴 잠시 젊은 청년의 육체를 빌려 인간 세계를 경험하려 한다. 윌리엄은 자신의 죽음을 피할 수 없는 조건으로, 
+조가 인간 세상에 적응할 수 있도록 가이드 역할을 해준다.
+​하지만 예상치 못한 일이 벌어집니다. 윌리엄의 딸 수잔(클레어 폴니)이 조 블랙을 만나고, 두 사람은 서로에게 강하게 이끌려 사랑에 빠지게 된다. 
+죽음의 신인 조 역시 수잔을 통해 인간의 깊은 감정과 사랑의 아름다움을 깨닫게 된다.
