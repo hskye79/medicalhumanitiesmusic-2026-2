@@ -1,3 +1,14 @@
+---
+Title: CODA
+Year: 2021
+Genre: Film
+Music: Both sides now
+Composer: Joni Mitchell
+Disease: Hearing loss
+ICD: 91.9
+---
+
+
 # CODA
 
 In *CODA (Child of Deaf Adult)*, Ruby, the only person without a hearing impairment in her family, lives while helping her family with their fishing business. She later joins her school choir and begins preparing to attend a music college, but her family is displeased because their fishing business would face serious difficulties without Ruby. After experiencing conflict with her family, Ruby eventually considers giving up college. However, her father, Frank, watches her sing and allows her to attend a college audition. Ruby passes the audition and leaves home. “Both Sides Now,” composed in 1967 by Joni Mitchell, who was born on November 7, 1943, is a song that looks at life from two perspectives: reality and ideals. From Ruby’s perspective, her reality is taking care of her family members with hearing impairments, while her ideal is attending college. In this sense, hearing impairment can be seen as an obstacle that interferes with Ruby’s ideal. However, when her father, Frank, experiences Ruby’s singing through the vibrations in her throat and the reactions of the people around him, music becomes a medium through which they understand and connect with each other’s worlds.
