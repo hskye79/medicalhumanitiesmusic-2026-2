@@ -4,8 +4,8 @@ Year: 1996
 Genre: Film
 Music: Piano Concerto No. 3 in D minor, Op. 30
 Composer: Sergei Rachmaninoff (1873-1943)
-Disease: Schizoaffective disorder, Schizophrenia
-ICD: 6A21, 6A20
+Disease: Schizophrenia
+ICD: 6A20
 ---
 
 #  Shine
