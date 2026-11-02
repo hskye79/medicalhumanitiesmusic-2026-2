@@ -4,7 +4,8 @@ Year: 1988
 Genre: Film
 Music: Rain Man (Original Score) "Iko Iko" (The Belle Stars version)
 Composer: Hans Zimmer
-Disease: Autism Spectrum Disorder (with savant abilities) ICD: 6A02
+Disease: Autism Spectrum Disorder (with savant abilities) 
+ICD: 6A02
 ---
 
 # *Rain Man*
