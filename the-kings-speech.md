@@ -61,3 +61,6 @@ George VI repeatedly pauses when beginning to speak or pronouncing certain words
 This contrast has the effect of highlighting the irregularity of George VI's speech.
 In particular, the music's repetitive rhythm is connected to his efforts to continue his speech, while the gradually intensifying melody and instrumentation emphasize the tension caused by his disability and his determination to overcome it.
 Ultimately, rather than directly imitating the sound of stuttering itself, the music conveys the psychological anxiety caused by the disability and the process of confronting it through sound.
+
+##AI 사용 범위
+한국어에서 영어로 번역, 작품 리서치, 파일 제목 등 제안
