@@ -1,17 +1,17 @@
 ---
-Title: Philadelphia
-Year: 1993
-Genre: Film
-Music: La mamma morta
-Composer: Umberto Giordano (1867-1948)
-Disease: AIDS
-ICD: 1C62.3
+Title: A Silent Voice
+Year: 2016
+Genre: Animated Film
+Music: lit
+Composer: Kensuke Ushio (1983-)
+Disease: Hearing Impairment
+ICD: AB50
 ---
 
 # ABC
 
-In *Philadelphia* (1993), directed by Jonathan Demme, Andrew Beckett, a lawyer fired after his firm discovers that he has AIDS, plays Maria Callas’s recording of “La mamma morta” from Umberto Giordano’s Andrea Chénier (1896) for Joe Miller, the attorney who has reluctantly taken his case. As Andrew translates Maddalena’s account of losing her mother, her home, and everything she had, the aria becomes his own illness narrative, told through another person’s voice. The scene shows that what cost Andrew his job was not the virus but how society understood it, and it asks whether music can convey an experience of illness that words alone cannot.
+In *A Silent Voice* (2016), directed by Naoko Yamada, Kensuke Ushio’s soundtrack "lit" accompanies the pivotal emotional breakthrough between Shoya, a high school boy struggling with social isolation, and Shoko, a girl with a severe hearing impairment whom he bullied in elementary school. To convey Shoko's subjective sensory environment, Ushio placed microphones inside the piano casing to capture subtle mechanical friction, pedal noise, and wooden resonance alongside the musical notes. Rather than presenting a clean, conventional melody, this technique reproduces how a person with hearing loss perceives sound—as physical vibrations, muffled frequencies, and tactile resonance. Through this acoustic strategy, the song bridges the acoustic barrier of hearing impairment, transforming physical miscommunication into a shared space of emotional empathy.
 
 # 한글
 
-조너선 드미 감독의 《필라델피아》(1993)에서, 에이즈에 걸린 사실이 회사에 알려진 뒤 해고된 변호사 앤드루 베킷은 마지못해 자기 사건을 맡은 조 밀러에게 마리아 칼라스가 부른 「어머니는 돌아가시고」를 들려준다. 움베르토 조르다노의 오페라 《안드레아 셰니에》(1896)에 나오는 이 아리아에서 마달레나는 어머니와 집과 가진 모든 것을 잃은 이야기를 노래한다. 앤드루가 그 가사를 한 줄씩 옮기는 동안, 노래는 남의 목소리를 빌린 앤드루 자신의 질환서사가 된다. 이 장면은 앤드루의 일자리를 빼앗은 것이 바이러스가 아니라 바이러스를 바라보는 사회의 시선이었음을 보여 주고, 말로는 닿지 못하는 질병의 경험을 음악이 전할 수 있는지 묻게 한다.
+야마다 나오코 감독의 《목소리의 형태》(2016)에서 우시오 켄스케 작곡의 수록곡 「lit」는 초등학교 시절 청각장애인인 쇼코를 괴롭혔던 죄책감으로 대인기피증과 고립에 시달리던 쇼야가 마침내 쇼코와 다시 만나 서로의 닫힌 마음을 여는 핵심 장면에 삽입된다. 작곡가는 청각장애인이 인지하는 주파수의 세계를 형상화하기 위해 피아노 울림통 내부에 마이크를 노출시켜 페달의 마찰음, 해머의 기계적 소음, 목재의 진동을 음표와 함께 그대로 담아냈다. 정돈된 클래식 선율 대신 둔탁한 노이즈와 공명이 섞인 연출은 소리를 명확한 멜로디가 아닌 신체적 진동과 촉각적 울림으로 수용하는 청각장애의 주관적 감각 경험을 청각화한다. 음악은 장애가 만든 단절을 넘어, 언어로 표현할 수 없는 공감과 연결의 순간을 완성한다.
