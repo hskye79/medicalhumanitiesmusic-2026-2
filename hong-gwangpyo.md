@@ -2,7 +2,7 @@
 Title: Don Quixote
 Year: 1897
 Genre: Symphonic Poem
-Music: Dkn Quixote, Op. 35
+Music: Don Quixote, Op. 35
 Composer: Richard Strauss (1864-1949)
 Disease: Delusional disorder
 ICD: 6A24.0
