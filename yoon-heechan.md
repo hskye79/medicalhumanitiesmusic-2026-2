@@ -2,7 +2,7 @@
 Title: CODA
 Year: 2021
 Genre: Film
-Music: Both Sides Now
+Music: Both Sides, Now
 Composer: Joni Mitchell (1943-)
 Disease: Deafness
 ICD: AB52
@@ -10,8 +10,8 @@ ICD: AB52
 
 # CODA
 
-In *CODA* (2021), directed by Sian Heder, Ruby Rossi is the only hearing member of a Deaf family and struggles between interpreting for her relatives and pursuing music. During a school concert, the soundtrack falls silent from her family's perspective, interrupting the assumption that a musical performance must be experienced through hearing. At her Berklee College of Music audition, Ruby sings Joni Mitchell's “Both Sides, Now” and signs the lyrics when she sees her family in the balcony. The song's changing perspectives echo Ruby's movement between Deaf and hearing worlds, while signing allows her to share the words with her family rather than treating deafness simply as a lack of musical understanding. Read through the course concept of audism, this moment questions whether hearing should be the standard for musical experience. Yet it also leaves a question: why does the family's access to the lyrics still depend on Ruby's interpretation?
+In *CODA* (2021), directed by Sian Heder, Ruby Rossi is the only hearing member of a Deaf family, often interpreting for her relatives while pursuing her own musical ambitions. During a school concert, the film cuts the sound as it shifts to her family's perspective, showing that hearing is not the only way to experience music. At her Berklee College of Music audition, Ruby sings Joni Mitchell's "Both Sides, Now" and signs the lyrics for her family. The song's changing perspectives reflect Ruby's position between Deaf and hearing worlds, while these scenes suggest that music can also be experienced through visual language, movement, and vibration. This challenges audism, the belief that hearing or behaving like a hearing person is superior. However, the family's access to the lyrics still depends on Ruby's interpretation, raising the question of why musical accessibility remains an individual's responsibility rather than being built into performances. A similar tension between individual adaptation and accessible environments appears in [an analysis of *Extraordinary Attorney Woo*](./you-minseo.md).
 
 # 코다
 
-시아 헤더 감독의 《코다》(2021)는 농인 가족의 유일한 청인인 루비가 가족의 통역을 맡는 일과 음악을 향한 꿈 사이에서 갈등하는 이야기다. 합창 공연 장면에서 영화는 가족의 관점으로 전환하며 소리를 지워, 음악을 귀로 들어야만 제대로 경험할 수 있다는 익숙한 전제를 흔든다. 이후 버클리 음대 오디션에서 루비는 조니 미첼의 「Both Sides, Now」를 부르다가 발코니의 가족을 발견하고 노랫말을 미국 수어로 전달한다. 서로 다른 관점에서 삶을 바라보는 노래의 주제는 농인과 청인의 세계를 오가던 루비의 처지와 맞닿아 있고, 수어는 음악의 가사를 가족과 나누는 또 하나의 방식이 된다. 이 장면을 수업에서 배운 ‘청능주의(audism)’로 읽으면, 청력이 음악 경험의 유일한 기준이 될 수 있는지 되묻게 된다. 동시에 가족이 노래에 접근하는 과정이 여전히 루비의 통역에 의존한다는 점도 생각해 볼 필요가 있다.
+시아 헤더 감독의 《코다》(2021)는 농인 가족의 유일한 청인인 루비가 가족의 통역을 맡는 일과 음악을 향한 꿈 사이에서 갈등하는 이야기다. 학교 합창 공연 장면에서 영화는 가족의 시점으로 전환하며 소리를 지워, 음악을 경험하는 방식이 모든 사람에게 같지 않음을 보여 준다. 이후 버클리 음대 오디션에서 루비는 조니 미첼의 「Both Sides, Now」를 부르며 가족을 위해 노랫말을 미국 수어로 전달한다. 서로 다른 관점에서 삶을 바라보는 노래의 주제는 농인과 청인의 세계를 오가는 루비의 상황과 맞닿아 있으며, 이 장면은 음악이 소리뿐 아니라 수어와 신체의 움직임, 진동 등의 감각을 통해서도 경험될 수 있음을 생각하게 한다. 이는 청각이나 청인처럼 행동하는 능력을 우월한 기준으로 여기는 '청능주의(audism)'에 의문을 제기한다. 그러나 가족이 노랫말을 이해하기 위해 여전히 루비의 통역에 의존한다는 점은 공연의 접근성을 개인의 배려가 아닌 사회적 차원에서 보장해야 하지 않는가라는 질문으로 이어진다. 이러한 문제는 개인의 적응과 사회적 환경의 변화를 다룬 [《이상한 변호사 우영우》 분석](./you-minseo.md)과도 연결된다.
