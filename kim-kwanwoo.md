@@ -1,22 +1,22 @@
 ---
-Title: The Father
-Year: 2020
+Title: Shine
+Year: 1996
 Genre: Film
-Music: The Pearl Fishers
-Composer: Georges Bizet (1838–1875)
-Disease: DEMENTIA
-ICD: 6D8Z
+Music: Piano Concerto No. 3 in D minor, Op. 30.
+Composer: Rachmaninoff
+Disease: Schizoaffective disorder
+ICD: 6A21
 ---
 
-# The Father
+# Shine
 
-<img src="./kim-kwanwoo.png" alt="A muffled, chilly mood. At dusk, an empty pair of headphones and a single wristwatch rest on a kitchen table. In the background, the door frame and hallway are subtly misaligned, hinting at the confusion of dementia, where the sense of space and time begins to waver. Faint afterimages of sheet music and drifting dust hang within a cold blue beam of light coming through the window, leaving behind the quiet lingering echo of music. A contrast between a calm blue-gray palette and warm amber lighting." style="width:50%;" />
+<img src="./kim-kwanwoo.png" alt="A cold, dark, empty restaurant late at night, lit in blue. An upright piano with its lid open stands in the foreground, its keys faintly glowing. Behind it, rippled blue glass walls shimmer softly, a small kitchen window glows pale in the distance, and a single warm lamp casts a pool of orange light. The mood is quiet and tense, as if a sound is about to break the silence. Dim lighting, a muted blue palette, simple painterly shapes." style="width:50%;" />
 
 
-*The Father* (2020) uses music as a way of conveying Anthony's state of mind. The arias in the film are almost never allowed to play through to the end. As Anne walks down the street, Purcell's "What Power Art Thou" (King Arthur, 1691) plays over the scene, and we assume it is background music. Only when Anthony takes off his headphones and the music cuts out do we realize the sound had been playing in his ears alone. In the kitchen, Maria Callas singing Bellini's [〈Casta Diva〉](https://www.youtube.com/watch?v=s-TwMfgaDC8&list=RDs-TwMfgaDC8&start_radio=1) comes on the radio, and Anthony switches it off partway through. Bizet's〈Je crois entendre encore〉catches and cuts out as it plays. The circumstances differ from piece to piece, but in each of these scenes the same thing holds: not one of them is heard to the end. This is how the film shows dementia. It is less a diagnosis a doctor puts a name to than the experience of living through things that once made sense now breaking off and falling out of line. The audience, like Anthony, grasps hold of a scene only to lose it. Each time the music cuts out, we are left bewildered, retracing what we just heard, and that bewilderment piles up as we move toward the end of the film. So when Bizet's aria finally plays without interruption at the close, we follow the flow of the music without losing it for the first time. A sense of relief arrives, as if we have at last grasped what kept slipping away, and that is why the aria lingers so long in the ear. Best read together with [a piece on the same film](./an-iseong.md).
+In Scott Hicks's *Shine* (1996), the film opens on a rainy night as the middle-aged David Helfgott walks into a restaurant and plays Rimsky-Korsakov's ["Flight of the Bumblebee" (1900)](https://www.youtube.com/watch?v=aYAJopwEYv8&list=RDaYAJopwEYv8&start_radio=1), silencing the people who had been laughing at him. The film then turns back to his past. The piano prodigy raised under his father Peter's control plays ["Rachmaninoff's Piano Concerto No. 3" (1909)](https://www.youtube.com/watch?v=GvKQKnIVy1I&list=RDGvKQKnIVy1I&start_radio=1) at the Royal College of Music in London, the piece his father had pushed him to learn, and collapses the moment he finishes. In this scene the most beautiful performance and the most painful moment occupy the same place. Through the concept of sublimation from class, turning suffering into art can be a comfort, but here the pain sounds like the price of the beauty, which leans toward romanticizing the illness. In the restaurant, by contrast, "Flight of the Bumblebee" darts along without pause, much like his excited speech and movements, and the performance becomes a way for a person living with illness to connect with listeners again. Both scenes are said to be Helfgott's own playing, yet whether the illness becomes a spectacle or a relationship depends on who is listening, and where. *Shine* pairs well with [*Sound of Metal*](./ju-haeun.md) . [*Sound of Metal*](./ju-haeun.md) is about a drummer who gradually loses his hearing. Because the film lets the audience hear the experience of sound disappearing directly through their own ears, it makes a good contrast with *Shine*, which showed illness from an outsider's point of view.
 
-# 더 파더
+# 샤인
 
-<img src="./kim-kwanwoo.png" alt="먹먹하고 서늘한 분위기. 황혼 무렵의 부엌 테이블 위에 빈 헤드폰과 손목시계 하나가 놓여 있다. 배경의 문틀과 복도 구조가 미세하게 어긋나며 공간감과 시간 감각이 흔들리는 치매의 혼란을 암시한다. 창으로 들어오는 차가운 푸른 빛줄기 사이로 옅은 악보의 잔상과 먼지가 부유하며 고요한 음악의 여운을 남긴다. 차분한 회청색과 따뜻한 호박색 조명의 대비." style="width:50%;" />
+<img src="./kim-kwanwoo.png" alt="차갑고 어두운 푸른 조명이 깔린 텅 빈 늦은 밤 식당. 앞쪽에 뚜껑이 열린 업라이트 피아노가 있고 건반이 희미하게 빛난다. 뒤로는 물결무늬 푸른 유리벽이 은은하게 일렁이고, 멀리 작은 주방 창이 창백하게 빛나며, 따뜻한 램프 불빛 하나가 주황빛 웅덩이를 만든다. 곧 소리가 정적을 깰 것 같은 조용하고 팽팽한 분위기. 어두운 조명, 절제된 푸른 색감, 단순한 회화풍 형태." style="width:50%;" />
 
-《더 파더》(2020)는 음악을 앤서니의 상태를 전하는 장치로 쓴다. 영화 속 아리아는 끝까지 이어지는 법이 거의 없다. 거리를 걷는 앤 위로 퍼셀의 〈What Power Art Thou〉(《킹 아서》, 1691)가 깔려서 배경음악인 줄 알았는데, 앤서니가 헤드폰을 벗자 음악이 뚝 끊기고 나서야 그 소리가 그의 귀에서만 울리고 있었다는 걸 알게 된다. 부엌에서는 마리아 칼라스가 부른 벨리니의 [〈Casta Diva〉](https://www.youtube.com/watch?v=s-TwMfgaDC8&list=RDs-TwMfgaDC8&start_radio=1)가 라디오에서 나오다가 앤서니가 중간에 꺼 버리고, 비제의 〈Je crois entendre encore〉는 재생이 걸리며 끊긴다. 곡마다 사정은 달라도 이 장면들에서는 어느 곡도 끝까지 듣지 못한다는 점이 같다. 이 영화가 치매를 보여 주는 방식이 바로 여기 있다. 의사가 붙이는 병명보다는, 앞뒤가 맞던 것들이 자꾸 끊기고 어긋나는 걸 몸으로 겪는 질환의 경험에 가깝고, 관객도 앤서니처럼 한 장면을 붙잡았다 싶으면 놓치게 된다. 음악이 끊길 때마다 관객은 방금 들은 것이 무엇이었는지 되짚느라 당혹스러워지고, 그 당혹감이 쌓인 채로 영화 끝에 이른다. 그래서 마지막에 비제의 아리아가 끊기지 않고 흐르는 순간, 관객은 처음으로 음악의 흐름을 놓치지 않고 따라가게 된다. 그동안 붙잡지 못하던 것을 비로소 붙잡았다는 안도가 오기 때문에 그 아리아가 유난히 오래 귀에 남는다. [같은 영화를 다룬 글](./an-iseong.md)과 함께 읽으면 좋다.
+스콧 힉스 감독의 《샤인》(1996)은 비 오는 밤 식당에 들어선 중년의 데이비드 헬프갓이 림스키코르사코프의 [「왕벌의 비행」(1900)](https://www.youtube.com/watch?v=aYAJopwEYv8&list=RDaYAJopwEYv8&start_radio=1)을 치며 비웃던 사람들을 조용하게 만드는 장면으로 시작한다. 영화는 곧 그의 과거로 돌아간다. 아버지 피터의 통제 속에서 자란 피아노 신동은 런던 왕립음악대학에서 아버지가 몰아붙이던 [「라흐마니노프 협주곡 3번」(1909)](https://www.youtube.com/watch?v=GvKQKnIVy1I&list=RDGvKQKnIVy1I&start_radio=1)을 연주하고, 연주를 마치자마자 쓰러진다. 이 장면에서 가장 아름다운 연주와 가장 아픈 순간은 같은 자리에 놓인다. 수업에서 배운 승화의 개념으로 보면 고통이 예술이 되는 일은 위로가 될 수 있지만, 여기서는 아픔이 아름다움의 대가처럼 들려서 병이 낭만화되는 쪽에 가깝다. 반면 식당에서 쉬지 않고 날아다니는 「왕벌의 비행」은 그의 들뜬 말과 몸짓을 닮았고, 이 연주는 병을 앓는 사람이 듣는 이들과 다시 이어지는 계기가 된다. 두 장면 모두 헬프갓 본인의 연주라고 하는데도, 병이 볼거리가 되기도 하고 관계가 되기도 하는 것은 누가 어떤 자리에서 듣느냐에 달려 있다. 영화 《샤인》은 [《사운드 오브 메탈》](./ju-haeun.md) 와 함께 보면 좋다. [《사운드 오브 메탈》](./ju-haeun.md)은 드러머가 청력을 잃어 가는 이야기이다. 소리가 사라지는 경험을 영화가 관객의 귀로 직접 들려주기 때문에, 《샤인》이 바깥의 시선으로 병을 보여 준 것과 대비해 보기 좋다.
