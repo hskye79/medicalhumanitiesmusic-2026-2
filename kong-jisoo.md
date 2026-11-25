@@ -22,4 +22,4 @@ You can watch [a full performance of *Iolanta* by the Royal Swedish Opera](https
 
 치료가 아니라 인공와우를 끄고 침묵을 받아들이는 선택으로 끝나는 [청력을 잃은 음악가에 관한 다른 영화](./kwon-minjae.md)와 함께 읽으면 이 대비가 더 뚜렷해진다.
 
-[스웨덴 왕립 오페라의 《이올란타》 전막 공연](https://www.youtube.com/watch?v=IMjVeCDtxG4)을 감상할 수 있다.
+[스웨덴 왕립 오페라의 《이올란타》 전막 공연](https://youtu.be/IMjVeCDtxG4?si=izuIBE9Q2lqanKqZ)을 감상할 수 있다.
