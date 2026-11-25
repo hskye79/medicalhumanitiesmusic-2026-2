@@ -19,3 +19,12 @@ In *Marathon* (2005), directed by Jeong Yoon-cheol, Chowon, a twenty-years-old m
 This scene also recalls [*Keys to the Heart* (2018)](./lee-jungsu.md), another film about autism and the piano.
 
 자폐 스펙트럼과 피아노를 다룬 영화 [『그것만이 내 세상』(2018)](./lee-jungsu.md)과 함께 읽으면 좋다.
+
+
+Chowon plays Chopin's Waltz in D-flat major, Op. 64 No. 1 (see [a performance by Seong-Jin Cho](https://www.youtube.com/watch?v=zW-3B9N7g1g)).
+
+초원은 쇼팽의 「왈츠 Op. 64 No. 1(강아지 왈츠)」을 연주한다([조성진의 연주](https://www.youtube.com/watch?v=zW-3B9N7g1g) 참고).
+
+<img src="./Lee-Gyuhwa.png" alt="귀 보호구를 쓴 아이가 마라톤 메달과 러닝 소품으로 꾸며진 방에서 피아노를 치는 모습" style="width:25%;" />
+
+<img src="./Lee-Gyuhwa.png" alt="A child with ear defenders playing the piano in a room decorated with marathon medals and running memorabilia" style="width:25%;" />
